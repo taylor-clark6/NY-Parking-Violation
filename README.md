@@ -7,7 +7,7 @@ This PySpark script processes parking violation data and outputs the date (month
 - Apache Spark (PySpark)
 - Python 3.x
 - CSV file with a column `issue_date` in `yyyy-MM-ddTHH:mm:ss.sss` format
-- [Dataset](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2024/pvqr-7yc4/about_data)
+- Dataset: https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2024/pvqr-7yc4/about_data
 
 ## Installation
 
